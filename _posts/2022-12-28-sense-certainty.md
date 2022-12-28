@@ -34,5 +34,5 @@ But this disappearance is what enables us, through mediation, to arrive
 at what was immediate. So the immediate upon capture - unmediates itself because 
 this capture is what creates the situation in which the immediate vanishes, and out of 
 this vanishing a new immediate appears in order for mediation to happen between the former and the present 
-immediacies. Do note that by definition the former immediacy stops being itself.
+immediacies. Do note that by definition the former immediacy, by being former, an immediacy must be immediate, thus, it stops being itself.
 
