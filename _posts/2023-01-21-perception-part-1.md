@@ -6,7 +6,6 @@ categories : [perception]
 
 Perception builds upon Sense-Certainty by having 
 the universal as its principle.
-
 While in Sense-Certainty the 'I' was dealing 
 with describing what the This is, in the end 
 when the subject tries to describe the This 
@@ -22,7 +21,6 @@ immediate defines as.
 So, by employing Perception as universal, 
 Pure Being will lead to have the immediate self-separated, 
 intertwined moments into universals - the I and the object.
-
 In other words those two moments can also be described 
 as the 1) the movement of pointing out or the act of perceiving, 
 and 2) the movement as a simple event or the object perceived.
