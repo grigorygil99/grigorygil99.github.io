@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remarks on the introduction of Perception
-categories : [perception]
+categories : [consciousness, perception]
 ---
 
 Perception builds upon Sense-Certainty by having 

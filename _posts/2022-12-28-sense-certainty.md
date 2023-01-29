@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brief remarks on sense-certainty
-categories : [consciousness]
+categories : [consciousness, sense-certainty]
 ---
 
 Within sense-certainty the existence of an object is self-justifiable, its being 

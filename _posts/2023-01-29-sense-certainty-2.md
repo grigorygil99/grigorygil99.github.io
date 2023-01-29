@@ -1,17 +1,15 @@
 ---
 layout: post
 title: Deeper dwelve into sense-certainty
-categories: [consciouness]
+categories: [consciousness, sense-certainty]
 ---
 
 In the previous post of sense-certainty I did some 
 general explanation of the behaviour of Pure Being in sense-certainty 
 in a very abbreviated way.
-
 I was not satisfied with the result, since in the next sub-chapter 
 "perception" Hegel tries to explain in his terminology the jump of 
 sense-certainty into perception.
-
 This post is a way to understand the terminologies used within the 
 context of sense-certainty.
 
@@ -33,7 +31,7 @@ otherness is considered as (a form?) of a unessential and mediated (being?).
 Huge doubts if the otherness can be considered a being,
 atleast in sc, due to otherness not being in-itself while 
 the object is in-itself, there is a undisputed guarantee 
-of the objects unmediated existence (well, undisputed by 
+of the objects unmediated existence (well, undisputed  
 by what sc defines the object as).
 There is also the point that due to object being Being 
 there should be a contrasting element that opposes 
@@ -43,7 +41,6 @@ that rejects its own identity i.e. the Being of non-Being?
 At the same time, they are two terms but 
 they relate through each other - due to dialectical nature, 
 although not certain if this is only for sense-certainty.
-
 Supposedly in sc otherness is mediated (through the object? probably), 
 because otherness is a knowing which knows the object due 
 to object's being - and this knowing may be or not be.
@@ -62,11 +59,9 @@ knowledge if the object is not there.
 
 The Pure Being of certainty defines it as immediate, so it's 
 just an explicit connotation it being immediate.
-
 A being that is negative is a being that relates to others 
 by the other's opposition and at the same time the being 
 is not affected by the other's existence.
-
 In other words we could say that being is constituted by 
 the other precisely by the other's opposite - a constitution 
 of no constitution (absence of relation) and at the same time 
@@ -82,8 +77,7 @@ The This is the product of splitting Pure Being into:
 - The This as object (immediate and mediated in sc)
 
 The This is taken as a twofold shape of its being,
-one shape as 'Now' and the other shape as 'Here'
-
+one shape as 'Now' and the other shape as 'Here'.
 Due to these shapes having within them the dialectic,
 (from the This? or inherently? from the Pure Being?)
 they will receive a form as intelligible as the This itself is.
@@ -98,11 +92,11 @@ Mediation within sc:
 
 
 
-## Before dialectical analysis (aprehension)
+# Before dialectical analysis (aprehension)
 In pure being the true content is the truth i.e. what pure being says.
 Pure being says the object is essence.
 
-## After dialectical analysis (comprehension)
+# After dialectical analysis (comprehension)
 In pure being the true content is the universal i.e. what pure being is
 The object is a negative due to its behaviour.
 
