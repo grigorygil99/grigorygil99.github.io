@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sense-certainty
+title: Brief remarks on sense-certainty
 categories : [consciousness]
 ---
 
