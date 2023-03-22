@@ -4,6 +4,10 @@ title: Brief remarks on sense-certainty
 categories : [consciousness, sense-certainty]
 ---
 
+This is a paragaph
+
+
+
 Within sense-certainty the existence of an object is self-justifiable, its being 
 is only within it, or, in other words, there is no justification for its existence - but it keeps existing otherwise.
 The truth of an object contains nothing other than its own being,
